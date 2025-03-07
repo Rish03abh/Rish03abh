@@ -52,9 +52,9 @@
 
 
 ## 🚀 Latest Projects  
-🔹 [Project Name 1](https://github.com/Rish03abh/PassOP-mongodb) - A brief description of what it does.  
-🔹 [Project Name 2](https://github.com/your-repo-2) - Another exciting project you built.  
-🔹 [Project Name 3](https://github.com/your-repo-3) - A cool project showcasing your skills.  
+🔹 [PassOP - Password Manager](https://github.com/Rish03abh/PassOP-mongodb) - A MERN Password Manager securely stores, encrypts, and manages passwords with authentication and encryption for user safety. 🔐🚀  
+🔹 [iTask - TODO Manager](https://github.com/Rish03abh/iTask---Manager-React.js-) - A React To-Do Manager is a task management app that lets users add, edit, and organize tasks with a sleek UI and state management. ✅🚀
+🔹 [Weather.com](https://github.com/Rish03abh/weather.com) -A Weather App built with React fetches real-time weather data from APIs, displaying temperature, forecasts, and conditions with a sleek UI. ☀️🌧️🚀
 
 
 ---
