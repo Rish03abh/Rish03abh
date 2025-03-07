@@ -8,9 +8,18 @@
 ---
 
 ## 🚀 About Me  
-🛠 Passionate about **developing sleek, high-performance web applications**.  
-💡 Exploring the latest in **JavaScript, Web3, and AI-powered applications**.  
-🎯 Focused on **clean code, performance optimization, and futuristic UI/UX**.  
+
+👨‍💻 Full-stack web developer with a passion for **building sleek, high-performance applications**.  
+💡 Always exploring the latest in **JavaScript, Web3, AI, and cloud technologies**.  
+🎨 Obsessed with **futuristic UI/UX, accessibility, and seamless user experiences**.  
+⚡ Constantly improving **code efficiency, scalability, and performance optimization**.  
+📖 Lifelong learner, always upskilling with new frameworks, tools, and best practices.  
+
+🔍 Currently diving deeper into **serverless architectures, microservices, and AI-powered applications**.  
+🚀 Love working on **open-source projects, collaborations, and innovative tech solutions**.  
+
+🎯 **Mission:** To craft digital experiences that are not just functional, but exceptional.  
+  
 
 ---
 
@@ -44,8 +53,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&hide_border=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rish03abh&show_icons=true&hide_border=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rish03abh&hide_border=true&theme=radical" width="48%" />
 </p>
 
 ---
