@@ -2,7 +2,7 @@
 <h3 align="center">Crafting Modern Web Experiences | Full-Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=00F7D1&center=true&vCenter=true&width=500&lines=Full-Stack+Web +Developer;Mern-Stack+Web+Developer;Building+Scalable+Web+Apps;Frontend+Web+Developer;Exploring+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=00F7D1&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Mern-Stack+Web+Developer;Building+Scalable+Web+Apps;Frontend+Web+Developer;Exploring+New+Technologies" />
 </p>
 
 ---
