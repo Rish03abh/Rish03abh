@@ -51,11 +51,11 @@
 
 
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rish03abh&show_icons=true&hide_border=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rish03abh&hide_border=true&theme=radical" width="48%" />
-</p>
+## 🚀 Latest Projects  
+🔹 [Project Name 1](https://github.com/Rish03abh/PassOP-mongodb) - A brief description of what it does.  
+🔹 [Project Name 2](https://github.com/your-repo-2) - Another exciting project you built.  
+🔹 [Project Name 3](https://github.com/your-repo-3) - A cool project showcasing your skills.  
+
 
 ---
 
