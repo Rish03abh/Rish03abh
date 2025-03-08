@@ -46,25 +46,31 @@ A task management app developed using React.js, enabling users to add, edit, del
 A weather forecasting application built with React.js, fetching real-time data from APIs. It displays temperature, forecasts, and weather conditions with an intuitive and responsive design. ☀️🌧️🌍
 
 
----## 🌍 Connect with Me  
+---
 
-<p align="center" style="display: flex; justify-content: center; gap: 30px;">
+## 🌍 Connect with Me  
+
+<p align="center">
   <a href="https://www.linkedin.com/in/rishabh-kanungo-ab5864257/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/> 
-  </a> 
-
+  </a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://rishabhkanungo03.netlify.app/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Portfolio" width="50" height="50"/> 
-  </a> 
+  </a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/_rishabh_kanungo/?hl=en" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"/> 
-  </a>
+  </a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:your-email@example.com" target="_blank">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50"/>  
   </a> 
 </p>
+
 
 
 
