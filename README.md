@@ -56,9 +56,10 @@ A weather forecasting application built with React.js, fetching real-time data f
   </a>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://rishabhkanungo03.netlify.app/" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Briefcase_font_awesome.svg" alt="Portfolio" width="50" height="50"/> 
+<a href="https://rishabhkanungo03.netlify.app/" target="_blank"> 
+  <img src="https://cdn-icons-png.flaticon.com/512/1028/1028053.png" alt="Portfolio" width="50" height="50"/> 
 </a>
+  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/_rishabh_kanungo/?hl=en" target="_blank"> 
