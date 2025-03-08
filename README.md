@@ -35,6 +35,7 @@
 ---
 
 🚀 Latest Projects
+
 🔹 PassOP - Password Manager
 A secure and encrypted password management system built with the MERN stack. PassOP ensures user authentication, encrypts stored passwords, and provides a seamless experience for managing credentials. 🔐✨
 
