@@ -59,7 +59,7 @@ A weather forecasting application built with React.js, fetching real-time data f
 <a href="https://rishabhkanungo03.netlify.app/" target="_blank"> 
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" width="50" height="50"/> 
 </a>  
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.instagram.com/_rishabh_kanungo/?hl=en" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"/> 
   </a>  
