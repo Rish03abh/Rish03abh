@@ -57,8 +57,8 @@ A weather forecasting application built with React.js, fetching real-time data f
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://rishabhkanungo03.netlify.app/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Portfolio" width="50" height="50"/> 
-  </a>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Briefcase_font_awesome.svg" alt="Portfolio" width="50" height="50"/> 
+</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/_rishabh_kanungo/?hl=en" target="_blank"> 
@@ -66,7 +66,7 @@ A weather forecasting application built with React.js, fetching real-time data f
   </a>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:your-email@example.com" target="_blank">  
+  <a href="mailto:rishabhkanungo731@gmail.com" target="_blank">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50"/>  
   </a> 
 </p>
