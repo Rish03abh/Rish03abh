@@ -32,13 +32,17 @@
 🛠 Tools & Technologies
 <p align="center"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60" style="margin: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" style="margin: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" style="margin: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60" style="margin: 10px;"/> </p>
 
+---
 
+🚀 Latest Projects
+🔹 PassOP - Password Manager
+A secure and encrypted password management system built with the MERN stack. PassOP ensures user authentication, encrypts stored passwords, and provides a seamless experience for managing credentials securely. 🔐✨
 
-## 🚀 Latest Projects  
-🔹 [PassOP - Password Manager](https://github.com/Rish03abh/PassOP-mongodb) - A MERN Password Manager securely stores, encrypts, and manages passwords with authentication and encryption for user safety. 🔐🚀  
-🔹 [iTask - TODO Manager](https://github.com/Rish03abh/iTask---Manager-React.js-) - A React To-Do Manager is a task management app that lets users add, edit, and organize tasks with a sleek UI and state management. 
+🔹 iTask - To-Do Manager
+A feature-rich task management app built with React.js, allowing users to add, edit, and organize tasks efficiently. The intuitive UI, coupled with state management, ensures a smooth and productive user experience. ✅📅
 
-🔹 [Weather.com](https://github.com/Rish03abh/weather.com) -A Weather App built with React fetches real-time weather data from APIs, displaying temperature, forecasts, and conditions with a sleek UI. ☀️🌧️🚀
+🔹 Weather.com - Weather App
+A real-time weather application powered by React.js, fetching accurate meteorological data from APIs. Users can view temperature, forecasts, and weather conditions through a sleek and interactive UI. ☀️🌧️🌍
 
 
 ---
