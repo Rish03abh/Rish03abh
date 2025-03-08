@@ -47,13 +47,9 @@ A weather forecasting application built with React.js, fetching real-time data f
 
 
 ---
+🌍 Connect with Me
 
-## 🌍 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/rishabh-kanungo-ab5864257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://rishabhkanungo03.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
- <a href="https://www.instagram.com/_rishabh_kanungo/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<p align="center"> <a href="https://www.linkedin.com/in/rishabh-kanungo-ab5864257/" target="_blank" style="margin: 20px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/> </a> <a href="https://rishabhkanungo03.netlify.app/" target="_blank" style="margin: 20px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Portfolio" width="50" height="50"/> </a> <a href="https://www.instagram.com/_rishabh_kanungo/?hl=en" target="_blank" style="margin: 20px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"/> </a> <a href="mailto:your-email@example.com" target="_blank" style="margin: 20px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Email" width="50" height="50"/> </a> </p>
 </p>
 
 ---
