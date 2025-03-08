@@ -34,16 +34,17 @@
 
 ---
 
-## 🚀 Latest Projects
+## 🚀 Latest Projects  
 
-🔹 PassOP - Password Manager
-A secure and encrypted password management system built with the MERN stack. PassOP ensures user authentication, encrypts stored passwords, and provides a seamless experience for managing credentials. 🔐✨
+🔹 **[PassOP - Password Manager](https://github.com/Rish03abh/PassOP-mongodb)**  
+A secure and encrypted password management system built with the MERN stack. PassOP ensures user authentication, encrypts stored passwords, and provides a seamless experience for managing credentials. 🔐✨  
 
-🔹 iTask - To-Do Manager
-A task management app developed using React.js, enabling users to add, edit, delete, and organize tasks. It features a modern UI and state management for a smoother user experience. ✅📅
+🔹 **[iTask - To-Do Manager](https://github.com/Rish03abh/iTask---Manager-React.js-)**  
+A task management app developed using React.js, enabling users to add, edit, delete, and organize tasks. It features a modern UI and state management for a smoother user experience. ✅📅  
 
-🔹 Weather.com - Weather App
-A weather forecasting application built with React.js, fetching real-time data from APIs. It displays temperature, forecasts, and weather conditions with an intuitive and responsive design. ☀️🌧️🌍
+🔹 **[Weather.com - Weather App](https://github.com/Rish03abh/weather.com)**  
+A weather forecasting application built with HTML,CSS,and JS fetching real-time data from APIs. It displays temperature, forecasts, and weather conditions with an intuitive and responsive design. ☀️🌧️🌍  
+
 
 
 ---
