@@ -5,14 +5,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=00F7D1&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Mern-Stack+Web+Developer;Frontend+Web+Developer;Building+Scalable+Web+Apps;Exploring+New+Technologies" />
 </p>
 
+<h3 align="center">Visitor Count:</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rish03abh&style=flat-square&color=00F7D1" alt="Profile views" />
+  <img src="https://profile-counter.glitch.me/Rish03abh/count.svg" alt="Visitor Count" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-![Profile Views](https://komarev.com/ghpvc/?username=Rish03abh&color=brightgreen&style=for-the-badge)
+
 
 
 👨‍💻 Full-stack web developer with a passion for **building sleek, high-performance applications**.  
