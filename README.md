@@ -72,21 +72,20 @@ A weather forecasting application built with HTML, CSS, and JS fetching real-tim
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rish03abh&theme=radical&no-bg=true&no-frame=true&column=3" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rish03abh&theme=radical&no-bg=true&no-frame=true&column=3" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rish03abh&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rish03abh&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rish03abh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rish03abh&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rish03abh&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rish03abh&layout=compact&theme=radical" />
 </p>
-
 
 ## 🌍 Connect with Me  
 
