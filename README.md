@@ -12,6 +12,8 @@
 ---
 
 ## 🚀 About Me  
+![Profile Views](https://komarev.com/ghpvc/?username=Rish03abh&color=brightgreen&style=for-the-badge)
+
 
 👨‍💻 Full-stack web developer with a passion for **building sleek, high-performance applications**.  
 💡 Always exploring the latest in **JavaScript, Web3, AI, and cloud technologies**.  
