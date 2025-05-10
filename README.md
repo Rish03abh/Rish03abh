@@ -71,9 +71,6 @@ A weather forecasting application built with HTML, CSS, and JS fetching real-tim
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rish03abh&theme=radical&no-bg=true&no-frame=true&column=3" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rish03abh&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
